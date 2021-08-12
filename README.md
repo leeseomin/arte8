@@ -69,6 +69,15 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 ###  Results
 
 
+### input image1
+ <img src="https://github.com/leeseomin/arte8/blob/main/s/2881.jpg.jpg" width="600">
+
+### output image1
+ <img src="https://github.com/leeseomin/arte8/blob/main/out/2881b.png" width="2000">
+ 
+  <img src="https://github.com/leeseomin/arte8/blob/main/out/2881c.png" width="2000">
+
+
 ### input image2
  <img src="https://github.com/leeseomin/arte8/blob/main/s/2856.jpg" width="600">
 
