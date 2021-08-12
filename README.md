@@ -70,13 +70,10 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 
 
 ### input image2
- <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0399.png" width="500">
+ <img src="https://github.com/leeseomin/arte8/blob/main/s/107.png" width="500">
 
 ### output image2
  <img src="https://github.com/leeseomin/arte7/blob/main/out/399a.png" width="2000">
- <img src="https://github.com/leeseomin/arte7/blob/main/out/399b.png" width="2000">
- <img src="https://github.com/leeseomin/arte7/blob/main/out/399h.png" width="2000">
- <img src="https://github.com/leeseomin/arte7/blob/main/out/399d.png" width="2000">
 
 
  
