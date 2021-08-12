@@ -70,7 +70,7 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 
 
 ### input image1
- <img src="https://github.com/leeseomin/arte8/blob/main/s/2881.jpg.jpg" width="600">
+ <img src="https://github.com/leeseomin/arte8/blob/main/s/2881.jpg" width="600">
 
 ### output image1
  <img src="https://github.com/leeseomin/arte8/blob/main/out/2881b.png" width="2000">
