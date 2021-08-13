@@ -1,6 +1,6 @@
 # arte8
 
- <img src="https://github.com/leeseomin/arte8/blob/main/out/monta.jpg" width="2400">
+ <img src="https://github.com/leeseomin/arte8/blob/main/out/2856out.png" width="2400">
 
 
 
