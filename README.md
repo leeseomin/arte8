@@ -86,12 +86,12 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 
 
  ### input image3
- <img src="https://github.com/leeseomin/arte8/blob/main/s/107.png" width="600">
+ <img src="https://github.com/leeseomin/arte8/blob/main/s/11.png" width="600">
 
 ### output image3
- <img src="https://github.com/leeseomin/arte8/blob/main/out/107a.png" width="2000">
+ <img src="https://github.com/leeseomin/arte8/blob/main/out/11a.png" width="2000">
  
-  <img src="https://github.com/leeseomin/arte8/blob/main/out/107b.png" width="2000">
+  <img src="https://github.com/leeseomin/arte8/blob/main/out/11b.png" width="2000">
  
  
 ### make animated png result
