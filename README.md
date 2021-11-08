@@ -56,7 +56,7 @@ mkdir s{1..25}
 input images folder : s ,   result folder : s25
 
 
-bash main.sh   
+bash main2.sh   (latest main~.sh)
 
 ```
 
