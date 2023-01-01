@@ -6,7 +6,7 @@ cd s
 for f in *\ *; do mv "$f" "${f// /_}"; done
 cd ..
 cd s
-parallel convert {} -resize 3000x3000 {.}.png ::: *.* 
+parallel convert {} -resize 3500x3500 {.}.png ::: *.* 
 rm *.jpg
 rm *.JPG
 parallel convert {} ../s25/{} ::: *.*
