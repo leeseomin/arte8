@@ -56,7 +56,9 @@ mkdir s{1..25}
 input images folder : s ,   result folder : s25
 
 
-bash main3.sh   (latest main~.sh)
+bash main5.sh   (latest main~.sh)
+
+bash retouch.sh (retouching)
 
 ```
 
