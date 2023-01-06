@@ -9,7 +9,7 @@ cd s
 parallel convert {} ../s25/{} ::: *.*
 cd ..
 cd s
-parallel convert {} -modulate 100,110,100  ../s1/{} ::: *.* 
+parallel convert {} -modulate 100,105,100  ../s1/{} ::: *.* 
 cd ..
 cd s1
 for i in *.* 
@@ -22,5 +22,5 @@ parallel gmic {} -fx_poster_edges 20,30,5,0,10,0,0,0 -o ../s4/{} ::: *.*
 cd ..
 cd s4
 for i in *.*; do
-   convert $i  -set filename:new ../s25/"%tsket" "%[filename:new].png"
+   convert $i  -set filename:new ../s25/"%t_2a" "%[filename:new].png"
 done
