@@ -57,7 +57,9 @@ input images folder : s ,   result folder : s25
 
 
 
-bash 1.sh  or  bash 2.sh or  bash 3.sh
+bash 1.sh  or  bash 2.sh or  bash 3.sh   
+
+bash 5.sh
 
 
 bash retouch.sh (retouching)
