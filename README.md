@@ -35,7 +35,15 @@ https://telegra.ph/Gmic-update-filters-07-26
 
 ```
 
+ # Dependency install on mac
 
+```
+brew install imagemagick
+brew install gmic         : after install 
+gmic 
+brew install parallel
+
+```
 
 ### Install
 
