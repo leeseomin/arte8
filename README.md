@@ -35,7 +35,7 @@ https://telegra.ph/Gmic-update-filters-07-26
 
 ```
 
- # Dependency install on mac
+### Dependency install on mac
 
 ```
 brew install imagemagick
