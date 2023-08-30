@@ -40,7 +40,9 @@ https://telegra.ph/Gmic-update-filters-07-26
 ```
 brew install --cask gimp
 brew install imagemagick
-brew install gmic         : after install 
+brew install gmic         : after install
+gmic up                   : gmic update           
+
 gmic 
 brew install parallel
 
