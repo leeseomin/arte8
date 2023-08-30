@@ -3,6 +3,8 @@
  <img src="https://github.com/leeseomin/arte8/blob/main/out/out.png" width="1800">
 
 
+ <img src="https://github.com/leeseomin/arte8/blob/main/0569.gif" width="2500">
+
 
 ### Dependency install on ubuntu 20.04 
 
