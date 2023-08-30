@@ -2,10 +2,7 @@
 
  <img src="https://github.com/leeseomin/arte8/blob/main/out/out.png" width="2500">
 
- <img src="https://github.com/leeseomin/arte8/blob/main/out/569.webp" width="2000">
-
- <img src="https://github.com/leeseomin/arte8/blob/main/out/569sketwater2.webp" width="2500">
-
+  <img src="https://github.com/leeseomin/arte8/blob/main/out/11b.png" width="2000">
 
 ### Dependency install on ubuntu 20.04 
 
