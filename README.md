@@ -67,6 +67,9 @@ mkdir s{1..25}
 input images folder : s ,   result folder : s25
 
 
+bash main2.sh   or  bash main.sh
+
+
 
 bash 1.sh  or  bash 2.sh 
 
